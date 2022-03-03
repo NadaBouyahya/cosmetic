@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap%27');
+body{
+    margin: 0;
+    font-family: 'Abel', sans-serif;
+    background-color: #FFF9F5;
+}
+img{
+    width: 100%;
+}
+
+.slogan {position: absolute;
+        top: 27%;
+        left:36%;
+        font-size:55px;
+        color: #5A4F2C;
+        width: 29%;
+        text-align: center;
+}
+
+.miniSlog{
+    position: absolute;
+        top: 63%;
+        left:44%;
+        font-size:25px;
+        color: #5A4F2C;
+}
+
+.shipping-category{
+    width: 70px;
+}
+
+.gift-category{
+    width: 60px;
+}
+
+.earning-category{
+    width: 53px;
+}
+
+.shop_offer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shop_offer p{
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 30%;
+    color:#5A4F2C;
+
+}
+
+.about_header{
+    padding: 10px;
+    background-color: #fae5dc;
+}
+
